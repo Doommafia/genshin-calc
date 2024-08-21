@@ -1,0 +1,192 @@
+{
+    "items": {
+        "2-star": {
+            "gems": [
+                "Agnidus Agate Sliver",
+                "Brilliant Diamond Sliver",
+                "Nagadus Emerald Sliver",
+                "Prithiva Topaz Sliver",
+                "Shivada Jade Sliver",
+                "Vajrada Amethyst Sliver",
+                "Varunada Lazurite Sliver",
+                "Vayuda Turquoise Sliver"
+            ],
+            "common_drops": [
+                "Chaos Device",
+                "Chaos Gear",
+                "Concealed Claw",
+                "Damaged Prism",
+                "Dead Ley Line Branch",
+                "Desiccated Shell",
+                "Dismal Prism",
+                "Fragile Bone Shard",
+                "Gloomy Statuette",
+                "Heavy Horn",
+                "Hunter's Sacrificial Knife",
+                "Kageuchi Handguard",
+                "Luminescent Pollen",
+                "Mist Grass Pollen",
+                "Sealed Scroll",
+                "Sergeant's Insignia",
+                "Sharp Arrowhead",
+                "Shimmering Nectar",
+                "Silver Raven Insignia",
+                "Slime Secretions",
+                "Spectral Heart",
+                "Stained Mask"
+            ]
+        },
+        "3-star": {
+            "gems": [
+                "Agnidus Agate Fragment",
+                "Brilliant Diamond Fragment",
+                "Nagadus Emerald Fragment",
+                "Prithiva Topaz Fragment",
+                "Shivada Jade Fragment",
+                "Vajrada Amethyst Fragment",
+                "Varunada Lazurite Fragment",
+                "Vayuda Turquoise Fragment"
+            ],
+            "common_drops": [
+                "Agent's Sacrificial Knife",
+                "Black Bronze Horn",
+                "Chaos Axis",
+                "Chaos Circuit",
+                "Concealed Unguis",
+                "Crystal Prism",
+                "Crystalline Cyst Dust",
+                "Dark Statuette",
+                "Dead Ley Line Leaves",
+                "Energy Nectar",
+                "Famed Handguard",
+                "Forbidden Curse Scroll",
+                "Golden Raven Insignia",
+                "Lieutenant's Insignia",
+                "Mist Grass",
+                "Ominous Mask",
+                "Slime Concentrate",
+                "Spectral Nucleus",
+                "Sturdy Bone Shard",
+                "Turbid Prism",
+                "Weathered Arrowhead"
+            ]
+        },
+        "4-star": {
+            "gems": [
+                "Agnidus Agate Chunk",
+                "Brilliant Diamond Chunk",
+                "Nagadus Emerald Chunk",
+                "Prithiva Topaz Chunk",
+                "Shivada Jade Chunk",
+                "Vajrada Amethyst Chunk",
+                "Varunada Lazurite Chunk",
+                "Vayuda Turquoise Chunk"
+            ],
+            "ascension_materials": [
+                "Artificed Spare Clockwork Component - Coppelia",
+                "Artificed Spare Clockwork Component - Coppelius",
+                "Basalt Pillar",
+                "Chaos Core",
+                "Chaos Oculus",
+                "Cleansing Heart",
+                "Concealed Talon",
+                "Crystalline Bloom",
+                "Deathly Statuette",
+                "Dew of Repudiation",
+                "Dragonheir's False Fin",
+                "Emperor's Resolution",
+                "Everflame Seed",
+                "Evergloom Ring",
+                "Fossilized Bone Shard",
+                "Hoarfrost Core",
+                "Hurricane Seed",
+                "Inspector's Sacrificial Knife",
+                "Juvenile Jade",
+                "Ley Line Sprout",
+                "Light Guiding Tetrahedron",
+                "Lightning Prism",
+                "Marionette Core",
+                "Mist Grass Wick",
+                "Perpetual Caliber",
+                "Perpetual Heart",
+                "Polarizing Prism",
+                "Pseudo-Stamens",
+                "Quelled Creeper",
+                "Radiant Prism",
+                "Riftborn Regalia",
+                "Runic Fang",
+                "Smoldering Pearl",
+                "Storm Beads",
+                "Wanderer's Blooming Flower"
+            ]
+        },
+        "5-star": {
+            "gems": [
+                "Agnidus Agate Gemstone",
+                "Brilliant Diamond Gemstone",
+                "Nagadus Emerald Gemstone",
+                "Prithiva Topaz Gemstone",
+                "Shivada Jade Gemstone",
+                "Vajrada Amethyst Gemstone",
+                "Varunada Lazurite Gemstone",
+                "Vayuda Turquoise Gemstone"
+            ]
+        },
+        "talent_books": {
+            "2-star": [
+                "Teachings of Admonition",
+                "Teachings of Ballad",
+                "Teachings of Diligence",
+                "Teachings of Elegance",
+                "Teachings of Equity",
+                "Teachings of Freedom",
+                "Teachings of Gold",
+                "Teachings of Ingenuity",
+                "Teachings of Justice",
+                "Teachings of Light",
+                "Teachings of Order",
+                "Teachings of Praxis",
+                "Teachings of Prosperity",
+                "Teachings of Resistance",
+                "Teachings of Transience"
+            ],
+            "3-star": [
+                "Guide to Admonition",
+                "Guide to Ballad",
+                "Guide to Diligence",
+                "Guide to Elegance",
+                "Guide to Equity",
+                "Guide to Freedom",
+                "Guide to Gold",
+                "Guide to Ingenuity",
+                "Guide to Justice",
+                "Guide to Light",
+                "Guide to Order",
+                "Guide to Praxis",
+                "Guide to Prosperity",
+                "Guide to Resistance",
+                "Guide to Transience"
+            ],
+            "4-star": [
+                "Philosophies of Admonition",
+                "Philosophies of Ballad",
+                "Philosophies of Diligence",
+                "Philosophies of Elegance",
+                "Philosophies of Equity",
+                "Philosophies of Freedom",
+                "Philosophies of Gold",
+                "Philosophies of Ingenuity",
+                "Philosophies of Justice",
+                "Philosophies of Light",
+                "Philosophies of Order",
+                "Philosophies of Praxis",
+                "Philosophies of Prosperity",
+                "Philosophies of Resistance",
+                "Philosophies of Transience"
+            ]
+        },
+        "misc": [
+            "Crown of Insight"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "ascensions": [
+        {
+            "phase": 0,
+            "level_range": "1/20",
+            "mora": 20000,
+            "xp": 120175
+        },
+        {
+            "phase": 1,
+            "level_range": "20/40",
+            "mora": 40000,
+            "xp": 578325
+        },
+        {
+            "phase": 2,
+            "level_range": "40/50",
+            "mora": 60000,
+            "xp": 579100
+        },
+        {
+            "phase": 3,
+            "level_range": "50/60",
+            "mora": 80000,
+            "xp": 854125
+        },
+        {
+            "phase": 4,
+            "level_range": "60/70",
+            "mora": 100000,
+            "xp": 1195925
+        },
+        {
+            "phase": 5,
+            "level_range": "70/80",
+            "mora": 120000,
+            "xp": 1611875
+        },
+        {
+            "phase": 6,
+            "level_range": "80/90",
+            "mora": 180000,
+            "xp": 3423125
+        }
+    ]
+}
