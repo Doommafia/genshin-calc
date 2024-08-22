@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genshin Level/Talent/Weapon calculator</title>
+</head>
+<body>
+    <div class="character">
+        <img src="temp.png" alt="charIMG" class ="char">
+        <button class="wep"></button>
+    </div>
+    <div class="userinput">
+        <p style="color: white">!TODO Make this a slider</p>
+        <input type="text" placeholder="Current Level">
+        <input type="text" placeholder="Desired Level">
+        <button>Calculate</button>
+    </div>
+
+</body>
+</html>
+
+<style>
+     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+    :root{
+        font-family: 'Roboto', sans-serif !important;
+        background-color: #14171A;
+        color: #ffffff;
+        display: flexbox;
+        align-items: center;
+        text-align: center;
+    }
+
+    .character{
+        margin-top: 10dvh;
+    }
+        .char{
+            background-image: url("temp.png");
+            width: 35dvh;
+            height: 60dvh;
+        }
+        .wep{
+            background-image: url("temp.png");
+            width: 20dvh;
+            height: 20dvh;
+        }
+            .char:hover, .wep:hover{
+                filter:blur(2px);
+            }
+    
+    .userinput{
+        margin-top:2dvh;
+    }
+</style>
